@@ -14,7 +14,6 @@
         "@fortawesome/fontawesome-svg-core": "7.0.1",
         "@fortawesome/free-solid-svg-icons": "7.0.1",
         "@fortawesome/react-fontawesome": "3.0.2",
-        "@netlify/functions": "4.2.5",
         "axios": "1.12.1",
         "libphonenumber-js": "^1.12.17",
         "prop-types": "15.8.1",
