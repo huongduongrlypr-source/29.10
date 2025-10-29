@@ -1,4 +1,8 @@
+lockfileVersion: '9.0'
+packages:
+  # Các dependencies sẽ được thêm tự động khi chạy pnpm install
+
 onlyBuiltDependencies:
-    - '@tailwindcss/oxide'
-    - core-js
-    - esbuild
+  - '@tailwindcss/oxide'
+  - core-js
+  - esbuild
