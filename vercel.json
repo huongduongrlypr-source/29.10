@@ -6,12 +6,6 @@
       "use": "@vercel/static-build"
     }
   ],
-  "routes": [
-    {
-      "src": "/(.*)",
-      "dest": "/dist/$1"
-    }
-  ],
   "cleanUrls": true,
   "trailingSlash": false
 }
